@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alejandro</h1>
-<h3 align="center">A PhD student in Physics</h3>
+<h3 align="center">A PhD student in Physics. Let's work together on Quantum Optimal Control</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aleramos119" alt="aleramos119" /></a> </p>
 
